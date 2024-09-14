@@ -35,12 +35,8 @@ public class A2q5 {
                 System.out.println("Multiplication::: " + result);
                 break;
             case 4:
-               // if (num != 0) {
-                    result = num  / num1;
+                     result = num  / num1;
                     System.out.println("Division::: " + result);
-              ///  } else {
-                    //System.out.println("Error: Division by zero is not allowed.");
-               // }
                break;
             default:
                 System.out.println("Invalid choice.");
